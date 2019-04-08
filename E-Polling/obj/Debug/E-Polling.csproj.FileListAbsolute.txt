@@ -1,0 +1,99 @@
+D:\Showmik\E-Polling\E-Polling\bin\Debug\E-Polling.exe.config
+D:\Showmik\E-Polling\E-Polling\bin\Debug\E-Polling.exe
+D:\Showmik\E-Polling\E-Polling\bin\Debug\E-Polling.pdb
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E-Polling.csprojResolveAssemblyReference.cache
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E_Polling.EPolling.resources
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E_Polling.Properties.Resources.resources
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E-Polling.csproj.GenerateResource.Cache
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E-Polling.exe
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E-Polling.pdb
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E_Polling.AdminPanel.resources
+D:\Showmik\E-Polling\E-Polling\bin\Debug\National Database System.mdf
+D:\Showmik\E-Polling\E-Polling\bin\Debug\National Database System_log.ldf
+D:\Showmik\E-Polling\E-Polling\obj\Debug\E_Polling.Form2.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe.config
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.exe
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.pdb
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System.mdf
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System_log.ldf
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.pdb
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csprojResolveAssemblyReference.cache
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AdminPanel.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.EPolling.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Form2.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Properties.Resources.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csproj.GenerateResource.Cache
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddVoter.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveCandidate.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveVoter.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ShowResult.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateCandidate.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateVoter.resources
+G:\AIUB\7th semister\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddCandidate.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe.config
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.exe
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.pdb
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System.mdf
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System_log.ldf
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.pdb
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csprojResolveAssemblyReference.cache
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddVoter.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveCandidate.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveVoter.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ShowResult.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateCandidate.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateVoter.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddCandidate.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AdminPanel.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.EPolling.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Form2.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Properties.Resources.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csproj.GenerateResource.Cache
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ChangePassword.resources
+C:\Users\MDTariqur\Desktop\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ChangeVoterPassword.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe.config
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.exe
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.pdb
+D:\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System.mdf
+D:\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System_log.ldf
+D:\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe
+D:\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.pdb
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csprojResolveAssemblyReference.cache
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddVoter.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ChangePassword.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ChangeVoterPassword.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveCandidate.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveVoter.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ShowResult.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateCandidate.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateVoter.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddCandidate.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AdminPanel.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.EPolling.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Form2.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Properties.Resources.resources
+D:\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csproj.GenerateResource.Cache
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe.config
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.exe
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.pdb
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System.mdf
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\National Database System_log.ldf
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.exe
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\bin\Debug\E-Polling.pdb
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csprojResolveAssemblyReference.cache
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddVoter.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ChangePassword.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ChangeVoterPassword.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveCandidate.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.RemoveVoter.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.ShowResult.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateCandidate.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.UpdateVoter.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AddCandidate.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.AdminPanel.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.EPolling.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Form2.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E_Polling.Properties.Resources.resources
+F:\E-Polling_2\E-Polling\E-Polling\E-Polling\E-Polling\obj\Debug\E-Polling.csproj.GenerateResource.Cache

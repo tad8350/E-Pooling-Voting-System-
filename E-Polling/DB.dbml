@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="National Database System" Class="DBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=&quot;|DataDirectory|\National Database System.mdf&quot;;Integrated Security=True;Connect Timeout=30" SettingsObjectName="E_Polling.Properties.Settings" SettingsPropertyName="National_Database_SystemConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Admin" Member="Admins">
+    <Type Name="Admin">
+      <Column Name="NID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Election Date]" Member="Election_Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="NID_Info1_Admin" Member="NID_Info1" ThisKey="NID" OtherKey="NID" Type="NID_Info1" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Candidate" Member="Candidates">
+    <Type Name="Candidate">
+      <Column Name="NID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Party_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Logo" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="Total_Vote" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="NID_Info1_Candidate" Member="NID_Info1" ThisKey="NID" OtherKey="NID" Type="NID_Info1" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NID_Info" Member="NID_Info1s">
+    <Type Name="NID_Info1">
+      <Column Name="NID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Father's Name]" Member="Father_s_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Mother's Name]" Member="Mother_s_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Sex" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="DOB" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="[Blood Group]" Member="Blood_Group" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="[Marital Status]" Member="Marital_Status" Type="System.String" DbType="Char(10) NOT NULL" CanBeNull="false" />
+      <Column Name="[Mobile No]" Member="Mobile_No" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[E-Mail]" Member="E_Mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="[Present Address]" Member="Present_Address" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Permanent Address]" Member="Permanent_Address" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="NID_Info1_Admin" Member="Admin" ThisKey="NID" OtherKey="NID" Type="Admin" Cardinality="One" />
+      <Association Name="NID_Info1_Candidate" Member="Candidate" ThisKey="NID" OtherKey="NID" Type="Candidate" Cardinality="One" />
+      <Association Name="NID_Info1_Voter" Member="Voter" ThisKey="NID" OtherKey="NID" Type="Voter" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Voter" Member="Voters">
+    <Type Name="Voter">
+      <Column Name="NID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Voting Status]" Member="Voting_Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="NID_Info1_Voter" Member="NID_Info1" ThisKey="NID" OtherKey="NID" Type="NID_Info1" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
